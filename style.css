@@ -1,3 +1,15 @@
+footer {
+    background-color: #333; /* Background color for the footer */
+    color: #fff; /* Text color for the footer */
+    padding: 20px; /* Padding around the content inside the footer */
+    text-align: center; /* Center-align the text */
+}
+
+footer a {
+    color: #fff; /* Text color for the links inside the footer */
+    text-decoration: none; /* Remove underlines from links */
+}
+
 /* cyrillic-ext */
 @font-face {
   font-family: 'Roboto';
